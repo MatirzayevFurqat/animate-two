@@ -33,7 +33,7 @@ body{
     z-index: 1;
     border-left: 2px solid #000;
     right: 0;
-    transition: 3s ease-in-out;
+    transition:right 3s ease-in-out;
 }
 
 .h1{
